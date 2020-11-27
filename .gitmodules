@@ -1,0 +1,12 @@
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/abhijeet-rajak-au6/Projects.git
+[submodule "devconnector"]
+	path = devconnector
+	url = https://github.com/abhijeet-rajak-au6/devconnector.git
+[submodule "A2Z-Work"]
+	path = A2Z-Work
+	url = https://github.com/abhijeet-rajak-au6/A2Z-Work.git
+[submodule "Entertainment-Sports-API"]
+	path = Entertainment-Sports-API
+	url = https://github.com/attainu/Entertainment-Sports-API.git
